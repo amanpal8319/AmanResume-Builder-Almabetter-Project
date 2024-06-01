@@ -132,6 +132,7 @@ Deployment Link : https://resume-builder-almabetter-six.vercel.app/
 Youtube Link : [https://youtu.be/uTCAhgiRXWU](https://youtu.be/-dqTi9rST7s)
 
 ## Team Memebers
+1. Aman pal
 
 - Parth Ojha
 - Nikhil Jangde
