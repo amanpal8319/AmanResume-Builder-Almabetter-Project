@@ -107,7 +107,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 **Template Selection** - From this component user can choose their favourite template.
 
-![template selection](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/ebc3023b-b631-4d9c-bbac-97c3ca1aff2c)
+![template selection](C:\Users\amanp\Pictures\Screenshots\Screenshot 2024-06-01 122935.png)
 
 **Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
 
